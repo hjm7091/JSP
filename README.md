@@ -12,3 +12,8 @@
 
 #### 23장 : EL(Expression Language)이란 표현식 또는 액션 태그를 대신해서 값을 표현하는 언어
 
+#### 24장 : JSTL(JSP standard Tag Library) => Core, XML Processing, I18N formatting, SQL, Functions
+        Core 라이브러리는 기본적인 라이브러리로 출력, 제어문, 반복문 같은 기능이 포함되어 있음
+        
+            
+
